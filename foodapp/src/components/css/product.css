@@ -1,0 +1,21 @@
+.button:active {
+    background-color: #2e0cf4;
+    box-shadow: 0 5px #666;
+    /* transform: translateY(4px); */
+  }
+  .btn1-group .button1 {
+    background-color: rgb(255, 255, 255); /* Green */
+    border: none;
+    color: white;
+    /* padding: 1px 1px; */
+    /* text-decoration: none; */
+    /* display: inline-block; */
+    text-align: center;
+    font-size: 18px;
+    cursor: pointer;
+    /* float: left; */
+  }
+  
+  .btn1-group .button1:hover {
+    background-color: #2e0cf4;
+  }
